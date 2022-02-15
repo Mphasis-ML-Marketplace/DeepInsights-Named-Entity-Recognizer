@@ -1,9 +1,14 @@
 ,index,Entity,Entity_Label
-0,4,Hewlett Packard Enterprise,ORG
-1,6,Blackstone Group LP,ORG
-2,7,US$1 billion,MONEY
-3,0,Mphasis,GPE
-4,1,Bangalore,GPE
-5,2,India,GPE
-6,5,Mphasis,GPE
-7,3,April 2016,DATE
+0,0,The World Health Organization,ORG
+1,1,the United Nations,ORG
+2,2,the United Nations Sustainable Development Group,ORG
+3,3,Geneva,GPE
+4,4,Switzerland,GPE
+5,5,six,CARDINAL
+6,6,150,CARDINAL
+7,7,WHO,ORG
+8,8,7-Apr-48,DATE
+9,9,Tedros Adhanom,PERSON
+10,10,Ethiopia,GPE
+11,11,five-year,DATE
+12,12,1-Jul-17,DATE
